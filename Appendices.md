@@ -1,4 +1,4 @@
-## Bijlagen
+## Appendices
 
 ### Bijlage A
 
