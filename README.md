@@ -1,4 +1,8 @@
-# Template-ReSpec
+# oapif-PDOK-INSPIRE
+
+This is the repository for sharing documentation and results on a test bed for OGC API Features for INSPIRE.
+
+Below is some Dutch template material that is to be removed
 
 Dit is de ReSpec template voor Geonovum publicaties. 
 Deze template is in beheer bij d.hup@geonovum.nl.
