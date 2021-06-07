@@ -1,8 +1,8 @@
-**Versiebeheer**
+**Versions**
 
-Dit document is aan verandering onderhevig. Het versiebeheer van het document geeft inzicht in wijzigen en de actualiteit ervan.
+The following versions have led to this document.
 
 | **Versie** | **Datum**      | **Status** | **Bewerking**                   | **Toelichting**                   |
 |------------|----------------|------------|---------------------------------|-----------------------------------| 
-| 0.1        | dd-mm-yyyy     | concept    | Initieel document               | "Kapstok" document aangemaakt     |
+| 0.1        | dd-mm-yyyy     | concept    | Initial document                | First document created            |
                            
