@@ -1,4 +1,4 @@
-## Conclusies en aanbevelingen
+## Recommendations
 
 ### Conclusies
 
