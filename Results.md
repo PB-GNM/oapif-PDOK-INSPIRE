@@ -1,4 +1,4 @@
-## Inhoudelijke keuzes
+## Resultaten
 
 ### Inhoudelijke Keuzes op hoofdlijnen
 
