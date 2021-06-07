@@ -1,4 +1,4 @@
-## Inleiding
+## Preface
 
 *Hier de inleiding, een generieke tekst over het onderwerp van het rapport, de omgeving van eht rapport, enz ...* 
 
